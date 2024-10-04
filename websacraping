@@ -1,0 +1,616 @@
+</div>
+
+
+<style type="text/css" rel="stylesheet">
+
+    a#rd-button-lrqg4rq8 {
+      display: flex;
+      flex-direction: column;
+    }
+
+    #rd-button-lrqg4rq8.bricks--component-button {
+      -ms-flex-align: center;
+      -ms-flex-direction: column;
+      -ms-flex-pack: center;
+      align-self: flex-end;
+      background-color: #ffd662;
+      border-bottom-style: none;
+      border-color: #000000;
+      border-left-style: none;
+      border-radius: 40px;
+      border-right-style: none;
+      border-top-style: none;
+      border-width: 0px;
+
+          box-shadow: 0px
+                      0px
+                      0px
+                      0px
+                      #000000;
+        ;
+      color: #000000;
+      cursor: pointer;
+      font-family: Montserrat, sans-serif;
+      font-size: 13px;
+      font-style: normal;
+      font-weight: bold;
+      height: 43px;
+      justify-content: center;
+      line-height: 1.42857;
+      margin-bottom: 0px;
+      margin-top: 15px;
+      max-width: 160px;
+      text-align: center;
+      text-decoration: none;
+      width: 100%;
+      padding-right: 10px;
+      padding-left: 10px;
+    }
+    @media screen and (max-width: 767px) {
+      #rd-button-lrqg4rq8 {
+        height: auto;
+        padding-top: 0.66em;
+        padding-bottom: 0.66em;
+      }
+    }
+
+
+
+</style>
+
+
+
+
+
+  <div class="bricks-form__submit">
+    <button class="bricks--component bricks--component-button rd-button" id="rd-button-lrqg4rq8">
+      Inscreva-se
+    </button>
+  </div>
+
+
+
+    <div style="position: fixed; left: -5000px">
+      <input type="text" name="emP7yF13ld" readonly="" autocomplete="false" tabindex="-1" value="">
+      <input type="text" name="sh0uldN07ch4ng3" readonly="" autocomplete="false" tabindex="-1" value="should_not_change">
+    </div>
+
+  </form>
+</div>
+<script>
+  document.querySelectorAll('input[name=emP7yF13ld],input[name=sh0uldN07ch4ng3]').forEach(function(element) {   
+    element.addEventListener('focus', function(e) {
+      e.target.removeAttribute('readonly');
+    });
+  });
+</script>
+
+
+  </div>
+</div>
+
+</div>
+
+</section>
+
+      </div>
+    </div>
+  </section></div>                                                      <script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+                        <script type="text/javascript"> new RDStationForms('newsletter-72aff61c3ee4c690cc73', 'null').createForm();</script>                                            </div>
+                     </div>                 </div>             </div>         </div>     </div>              <div class="block-2">         <div class="wrapper">             <div class="content">
+    <div class="item social">                     <ul>                         <a href="https://www.instagram.com/kingstar.colchoes/" target="_blank" aria-label="Instagram">                            <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" alt="Instagram" aria-labelledby="Instagram">                                                    <circle cx="20" cy="20" r="20" fill="#1F1F1F"></circle> 
+                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M24.5066 9H15.6457C11.9754 9 9 11.9754 9 15.6457V24.5066C9 28.1769 11.9754 31.1523 15.6457 31.1523H24.5066C28.1769 31.1523 31.1523 28.1769 31.1523 24.5066V15.6457C31.1523 11.9754 28.1769 9 24.5066 9ZM11.2152 15.6457C11.2152 13.1989 13.1987 11.2153 15.6456 11.2153H24.5065C26.9534 11.2153 28.937 13.1989 28.937 15.6457V24.5066C28.937 26.9535 26.9534 28.9371 24.5065 28.9371H15.6456C13.1987 28.9371 11.2152 26.9535 11.2152 24.5066V15.6457ZM20.076 25.6144C17.0174 25.6144 14.538 23.1349 14.538 20.0763C14.538 17.0177 17.0174 14.5382 20.076 14.5382C23.1346 14.5382 25.6141 17.0177 25.6141 20.0763C25.6141 23.1349 23.1346 25.6144 20.076 25.6144ZM20.0761 23.3992C21.9112 23.3992 23.3989 21.9115 23.3989 20.0763C23.3989 18.2412 21.9112 16.7535 20.0761 16.7535C18.2409 16.7535 16.7532 18.2412 16.7532 20.0763C16.7532 21.9115 18.2409 23.3992 20.0761 23.3992ZM26.7217 14.5382C26.7217 15.1499 26.2258 15.6458 25.6141 15.6458C25.0024 15.6458 24.5065 15.1499 24.5065 14.5382C24.5065 13.9265 25.0024 13.4306 25.6141 13.4306C26.2258 13.4306 26.7217 13.9265 26.7217 14.5382Z" fill="white"></path>                                                      </svg>                          </a>                         <a href="https://www.facebook.com/kingstarcolchoess/" target="_blank" aria-label="Facebook">                            <svg width="40" height="40" viewBox="0 0 40 
+40" fill="none" xmlns="http://www.w3.org/2000/svg" alt="Facebook" aria-labelledby="Facebook">
+                        <circle cx="20" cy="20" r="20" fill="#1F1F1F"></circle>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1174 10H28.0569C29.2263 10 30.1743 10.948 30.1743 12.1174V29.0569C30.1743 30.2263 29.2263 31.1743 28.0569 31.1743H11.1174C9.94801 31.1743 9 30.2263 9 29.0569V12.1174C9 10.948 9.94801 10 11.1174 10ZM11.1176 12.1176V29.057H28.0571V12.1176H11.1176ZM18.6695 20.5917H20.646V26.9393H22.7635V20.5917H24.8623V18.4742H22.7635V17.4109C22.7635 16.8261 23.2375 16.3521 23.8222 16.3521H24.8809V14.2347H23.8222C22.068 14.2347 20.646 15.6567 20.646 17.4109V18.4742H18.6695V20.5917Z" fill="white"></path>   
+                                        </svg>                          </a>                         <a href="https://www.youtube.com/@KingStarColchoesoficial" target="_blank" aria-label="Youtube" aria-labelledby="Youtube"> 
+                           <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" alt="Youtube">                                                        <circle cx="20" cy="20" r="20" fill="#1F1F1F"></circle>                                                         <path d="M23.4536 19.8717L17.7047 16.5236C17.6563 16.4952 17.6008 16.4795 17.544 16.4783C17.4871 16.4771 17.431 16.4904 17.3813 16.5168C17.3316 
+16.5431 17.2902 16.5817 17.2614 16.6283C17.2326 16.675 17.2173 16.7282 17.2173 16.7823V23.4786C17.2173 23.5327 17.2326 23.5859 17.2614 23.6326C17.2902 23.6792 17.3316 23.7177 17.3813 23.7441C17.431 23.7705 17.4871 23.7837 17.544 23.7825C17.6008 23.7813 17.6563 23.7657 17.7047 23.7373L23.4536 20.3892C23.5008 20.3626 23.54 20.3247 23.5671 20.2794C23.5943 20.234 23.6086 20.1827 23.6086 20.1304C23.6086 20.0782 23.5943 20.0269 23.5671 19.9815C23.54 
+19.9362 23.5008 19.8983 23.4536 19.8717Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>                                                        <rect x="10" y="12" width="19" height="16.2609" rx="1" stroke="white" stroke-width="2"></rect>                                                  </svg>  
+                       </a>                     </ul>                 </div>                                  <div class="item atendimento">                     <span>                                                Horário de Atendimento                         <small>Segunda à Segunda das 08hs às 21hs</small>                     </span>                 </div>                              <div class="item mail" style="display: none;">
+                <span>                                          Dúvidas sobre pedido:
+        <small><a href="/fale-conosco"><u>Fale Conosco</u></a></small>                                  </span> 
+                                        <span>                                          Fale com o departamento 
+de marketing:                                           <small><a href="mailto:marketing@kingstarcolchoes.com.br">marketing@kingstarcolchoes.com.br</a></small>                                         </span>
+</div>                                                          <div class="item televendas">
+        <span>                                          Comprar Agora                                          <small><a href="https://wa.me/551151940311?text=Ol%C3%A1!%20Gostaria%20de%20ter%20um%20King%20Star." title="Compre agora!" target="_blank">Whatsapp</a></small>
+                        </span>                                 </div>
+                <div class="item sac">                                  <span>
+SAC                                             <small><a href="https://kingstarcolchoessupport.zendesk.com/hc/pt-br" target="_blank">Fale Conosco</a></small>                                  </span>
+</div>                            </div>         </div>     </div>       <div id="mais-info">             <strong>Mais informações</strong>             <span class="icon">                 <svg width="12" height="8" viewBox="0 0 12 8" fill="none" xmlns="http://www.w3.org/2000/svg">                     <path d="M10.9989 1.84922L6.07511 
+6.92433L1.00001 2.00057" stroke="#B08935" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>                 </svg>             </span>         </div> </div> <div class="footer-content">     <div class="wrapper">               <div class="content">                   <div class="left">                             <div class="category">                                   <span>Categoria</span>
+             <div id="cw1236417408_1" class="wd-category-menu  ">      <!-- BEFORE -->
+  <div class="wd-category-menu">                       <!-- CONTENT -->                                <nav>   <ul class="section level-1">
+                <li class="colchoes first    selected">                         <p><a href="/colchoes" class="colchoes" title="Colchões"><span class="icon"></span>Colchões</a></p>                                     </li>   
+                                                                <li class="bases   ">                   <p><a href="/bases" class="bases" title="Bases"><span class="icon"></span>Bases</a></p>
+</li>                                                                           <li class="cama-box   ">        
+        <p><a href="/cama-box" class="cama-box" title="Cama Box"><span class="icon"></span>Cama Box</a></p>     
+                        </li>                                                                           <li class="cama-box-bau   ">                    <p><a href="/cama-box-bau" class="cama-box-bau" title="Cama Box Baú"><span class="icon"></span>Cama Box Baú</a></p>                                     </li>
+                                        <li class="travesseiros   ">                    <p><a href="/travesseiros" class="travesseiros" title="Travesseiros"><span class="icon"></span>Travesseiros</a></p>
+        </li>                                                                           <li class="acessorios last  ">                  <p><a href="/acessorios" class="acessorios" title="Acessórios"><span class="icon"></span>Acessórios</a></p>                                     </li>                   </ul> </nav>
+       </div>           <!-- AFTER -->      </div>                              </div>                         <div class="pages">                                      <div class="inst">
+<span>INSTITUCIONAL</span>                                              <ul>
+        <li><a href="/onde-encontrar">Nossas Lojas</a></li>                                                    <li><a href="/sobre-king-star">Nossa História</a></li>                                                   <li><a href="/politicas">Termos e condições de uso</a></li>                                                     <li><a href="/politica-de-qualidade">Política de Qualidade</a></li>                                                    <li><a href="https://www.kingstarcolchoes.com.br/cupom-p8592" target="_blank">Vale Presente</a></li>
+                                <li><a href="https://blog.kingstarcolchoes.com.br/" target="_blank">Blog</a></li>                                               </ul>                                   </div>
+                                        </div>                                                          <div class="support">                                   <span>AJUDA E SUPORTE</span>                                   <ul>                                             <li><a href="https://kingstarcolchoessupport.zendesk.com/hc/pt-br" target="_blank" style="font-size: 13px;">SAC</a></li>                                                <!--<li><a href="/trocas-e-devolucoes">Trocas e Devoluções</a></li>-->                                          <li><a href="/painel-do-cliente/dados-cadastrais">Meu Cadastro</a></li>                                                <!--<li><a href="/fale-conosco">Central de Atendimento</a></li>-->                                       </ul>   
+                        </div>                                                  </div>
+                                <div class="center">                            <div class="payments">
+                <span>Formas de Pagamento</span>                                        <div> <img class="lazyload no-effect" src="https://kingstarcolchoes.assets.cdn.linxcommerce.io/Custom/Content/Themes/Shared/Images/photo-loading.gif" data-src="https://kingstarcolchoes.assets.cdn.linxcommerce.io/Custom/Content/Themes/KingStar2023/assets/img/cartoes-bandeiras.svg" alt="Formas de Pagamento">                                     </div>
+        </div>                          <div class="srcurity">                                  <span>Certificados</span>                                       <div class="selos">                                            <ul>                                                     <li>
+<a href="https://goo.gl/maps/4yCAoMzGgqNoKTkQ9" target="_blank"> <img loading="lazy" src="https://kingstarcolchoes.assets.cdn.linxcommerce.io/Custom/Content/Themes/KingStar2023/assets/img/selo-google-novo.png" alt="Selo de aprovação de qualidade do google" width="90" height="59"> 
+</a>                                                    </li>                                                  <li>                                                             <a title="Este Site é protegido por Site Defender" alt="Este Site é protegido por Site Defender" href="javascript:void(0)" onclick="javascript:window.open('https://www.sitedefender.com.br/selo-kingstar/', 'c_TW', 'width=600, height=670');">
+                                <img loading="lazy" src="https://www.sitedefender.com.br/selo/kingstar/Selo-LC-Kingstar.png" alt="Selo Kingstar" width="100px" height="50"></a>
+</li>                                                   <li>
+<a href="/colchoes#">                                                                   <img loading="lazy" src="/Custom/Content/Themes/KingstarNovo/assets/img/king-star-selo.png" alt="Selo Kingstar" width="90" height="86"> 
+                                                        </a>                                                   </li>                                                    <li>
+<a href="/colchoes#">                                                                   <img loading="lazy" src="/Custom/Content/Themes/KingstarNovo/assets/img/selo-qualidade.png" alt="Selo de qualidade" width="71" height="94">                                                             </a>
+</li>                                                   <li>
+<script type="text/javascript" src="//certificate.trustvox.com.br/widget.js"></script>
+                                <div data-trustvox-certificate-fixed="data-trustvox-certificate-fixed">
+  <a href="javascript:;" class="trustvox-certificate__modal-btn-js" target="_self">
+    <span class="trustvox-certificate__fixed trustvox-certificate__fixed-full-right"></span>
+  </a>
+  </div>                                                        </li>
+<li style="margin-top: 23px;">                                                          <div id="reputation-ra"><script type="text/javascript" src="https://s3.amazonaws.com/raichu-beta/selos/bundle.js" data-id="MTE5MDg6a2luZy1zdGFyLWNvbGNob2Vz" data-target="reputation-ra" data-model="2"></script></div>
+                </li>                                           </ul>                                   </div>  
+                        </div>                          <div class="obs">                                      <p>                                              *Preços e condições de pagamento válidos exclusivamente para compras efetuadas no site, podendo diferenciar-se das lojas físicas. As imagens dos produtos são meramente ilustrativas. Todos os preços e condições comerciais estão sujeitos a alteração sem aviso prévio.
+        </p>                            </div>                          </div>
+</div>                  <div class="copyright">                         <p>
+                                                                                                Copyright © King Star Colchões 2024 - Todos os Direitos Reservados. King Star Colchões LTDA - CNPJ: 35.207.004/0001-20 | Av. Nações <br>Unidas, 21.476 - Vila Almeida - São Paulo-SP 04795-000. <!--Tel.: (11) 5525-3471-->                    </p>                     <div>                           <a href="https://www.linx.com.br/" target="blank"> <img 
+class="lazyload no-effect" src="https://kingstarcolchoes.assets.cdn.linxcommerce.io/Custom/Content/Themes/Shared/Images/photo-loading.gif" data-src="https://kingstarcolchoes.assets.cdn.linxcommerce.io/Custom/Content/Themes/KingStar2023/assets/img/linx.png?s" alt="Linx">                          </a>                    </div>         </div>   </div> </div>  <div class="footer_links" style="display: none;">        <div class="wrapper">          <div class="row content-center">                         <div class="cms-page-menu col col-12 col-lg-4 footer-category">                                 <div class="row">                                       <div class="col 
+cms-page col-md-6 col-12">                                              <h2><small><strong class="section-title">Institucional</strong></small></h2>
+                                           <div id="cw553715534_1" class="wd-page-menu  ">      <!-- BEFORE --> 
+                           <div class="wd-page-menu">                       <!-- CONTENT -->
+  <ul>                  <li class="root page-institucional">                              <a href="/conteudo/institucional" title="Institucional">Institucional</a>                                       <ul>
+                <li class="page-institucional-ajuda"> <a href="/conteudo/institucional/ajuda" title="Ajuda" target="">Ajuda</a>  <ul>           <li class="page-institucional-ajuda-comocomprar"> <a href="/conteudo/institucional/ajuda/comocomprar" title="Como Comprar?" target="">Como Comprar?</a>  </li>   </ul>  </li>
+               <li class="page-institucional-a-empresa"> <a href="/conteudo/institucional/a-empresa" title="A Empresa" target="">A Empresa</a>  </li>                                  <li class="page-institucional-politica-de-qualidade"> <a href="/conteudo/institucional/politica-de-qualidade" title="Política de Qualidade" target="">Política de Qualidade</a>  </li>                              </ul>                      </li>              </ul>  
+                         </div>           <!-- AFTER -->      </div>                                    </div>  
+                                <div class="col cms-page col-md-6 col-12">
+<h2><small><strong class="section-title">Dúvidas</strong></small></h2>
+                                                   <div id="cw1437774080_1" class="wd-page-menu  ">      <!-- BEFORE -->                            <div class="wd-page-menu">                       <!-- CONTENT -->
+           <ul>              </ul>                           </div>           <!-- AFTER -->      </div>        
+                        </div>                          </div>                  </div>          </div>  </div> </div> <!-- <div class="pop-up-newsletter" style="display: none;">     <div class="modal-bg"></div>     <div class="modal-pop-up">         <span class="close"></span>         <div class="content">             <div class="news-bar">-->                             <!-- </div>         </div>     </div> </div>--> <script src="https://kingstarcolchoes.assets.cdn.linxcommerce.io/Custom/Content/Themes/KingStar2023/assets/css/home/contador.js"></script>  <!-- OmniChat--> <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">    <div id="cta-whatsapp-link" class="numbersVendas">     <a href="https://wa.me/551151940311?text=Ol%C3%A1!%20Gostaria%20de%20ter%20um%20King%20Star." target="_blank">                  <span id="message-bubble"> Fale pelo Whatsapp </span>            <i class="fa fa-whatsapp" style="margin-top:16px;"></i>        </a> </div>          </footer>  </section><script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/lead-tracking/stable/lead-tracking.min.js"></script><script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/traffic-source-cookie/stable/traffic-source-cookie.min.js"></script>     <div class="wd-browsing-modal wd-widget-js" data-widget-js="{ &quot;handler&quot;: &quot;BrowsingModal&quot;, &quot;options&quot;: {} }">        <div class="the-modal" id="mainModal" style="display:none;">            <a href="/colchoes#" class="close">×</a>                <div class="the-modal-container"></div>         </div>  <div class="the-modal" id="auxiliaryModal" style="display: none">               <a href="/colchoes#" class="close">×</a>                <div class="the-modal-container"></div>         </div> </div>           <div class="wd-google-tag-manager  wd-widget wd-widget-js" data-widget-js="{ &quot;handler&quot;: &quot;GoogleTagManager&quot;, &quot;options&quot;: {} }" data-conteiner-id="GTM-PX5P5D2">             <script>                var dataLayer = dataLayer || [],
+_dataGTM = {};                                          _dataGTM = {    'webSite':'',   'pageType':'search',   'pageTitle':document.title,      'pageDescription':'',   'pageKeywords':'',      'visitorLoginState':'false',   'visitorName':'',        'visitorEmail':'',      'visitorIdentify':'',   'visitorDemographicInfo':{             'age':'',                'gender':'',            'birthdayCustomer':'',          'cityCustomer':'',             'stateCustomer':'',              'countryCustomer':''    },      'searchTerm':'',        'source':'',    'medium':'',    'campaign':'',  'term':'',      'search_term':'',       'searchResultsNumber':'28',     'searchDepartament':'',         'item_list_id' : '2',                   'items': [                                      {       
+                                                        'item_name': 'Colchão King Star Smart Comfort - 5 anos de garantia!',                   'item_id': '9103',                      'item_list_name': 'Colchões',
+'item_category': 'Colchões',                    'item_category2':  'LPs',                       'item_category3':  'Promoções',                         'item_category4':  '',                  'item_category5':  '',
+'affiliation':'KingStar',                       'currency':'BRL',                       'index' : '1',
+'price': '799',                         'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',                                                                                               'discount': '799'                                       }                               ,
+                {                                                                       'item_name': 'Colchão King Field Molas Ensacadas',                      'item_id': '9693',                      'item_list_name': 'Colchões',                   'item_category': 'Colchões',                    'item_category2':  'LPs',
+'item_category3':  'Promoções',                         'item_category4':  '',                  'item_category5':  '',                  'affiliation':'KingStar',                       'currency':'BRL',                      'index' : '2',                   'price': '399',                         'item_brand': 'KING STAR COLCHÕES',     
+        'quantity': '2147483647',
+        'discount': '399'                                       }                               ,
+                        {                                                                       'item_name': 'Colchão Comfort Line Molas Ensacadas',                    'item_id': '8698',                      'item_list_name': 'Colchões',                   'item_category': 'Colchões',                    'item_category2':  'LPs',       
+        'item_category3':  'Promoções',                         'item_category4':  '',                  'item_category5':  '',                  'affiliation':'KingStar',                       'currency':'BRL',
+'index' : '3',                  'price': '1043',                        'item_brand': 'KING STAR COLCHÕES',     
+        'quantity': '2147483647',
+        'discount': '131'                                       }                               ,
+                        {                                                                       'item_name': 'Colchão Crystal Molas Ensacadas',                         'item_id': '9723',                      'item_list_name': 'Colchões',                   'item_category': 'Colchões',                    'item_category2':  '',
+'item_category3':  '',                  'item_category4':  '',                  'item_category5':  '',
+'affiliation':'KingStar',                       'currency':'BRL',                       'index' : '4',
+'price': '1250',                        'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',                                                                                               'discount': '0'                                         }                               ,
+                {                                                                       'item_name': 'Colchão Star Comfort Maior Suporte das Molas Superlastic',                        'item_id': '8743',                     'item_list_name': 'Colchões',                    'item_category': 'Colchões',                    'item_category2':  '',                  'item_category3':  '',                  'item_category4':  '',                  'item_category5':  '',                  'affiliation':'KingStar',                       'currency':'BRL',
+'index' : '5',                  'price': '1974',                        'item_brand': 'KING STAR COLCHÕES',     
+        'quantity': '2147483647',
+        'discount': '0'                                         }                               ,
+                        {                                                                       'item_name': 'Colchão Super Star Molas Ensacadas',                      'item_id': '8719',                      'item_list_name': 'Colchões',                   'item_category': 'Colchões',                    'item_category2':  '',
+'item_category3':  '',                  'item_category4':  '',                  'item_category5':  '',
+'affiliation':'KingStar',                       'currency':'BRL',                       'index' : '6',
+'price': '1437',                        'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',                                                                                               'discount': '0'                                         }                               ,
+                {                                                                       'item_name': 'Colchão Glamour King Molas Ensacadas',                    'item_id': '8802',                      'item_list_name': 'Colchões',                   'item_category': 'Colchões',                    'item_category2':  '',                 'item_category3':  '',                   'item_category4':  '',                  'item_category5':  '',
+'affiliation':'KingStar',                       'currency':'BRL',                       'index' : '7',
+'price': '2237',                        'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',                                                                                               'discount': '0'                                         }                               ,
+                {                                                                       'item_name': 'Colchão King Star Original - 10 anos de garantia!',                       'item_id': '9079',                      'item_list_name': 'Colchões',                   'item_category': 'Colchões',                    'item_category2':  'Linha Premium',                     'item_category3':  'LPs',                       'item_category4':  'Promoções', 
+                        'item_category5':  '',                  'affiliation':'KingStar',                      'currency':'BRL',                        'index' : '8',                  'price': '1999',                       'item_brand': 'KING STAR COLCHÕES',                      'quantity': '2147483647',
+                                                        'discount': '2998,5'                                   }                                ,                                               {
+                                'item_name': 'Colchão Comfort Plus Molas Ensacadas',                    'item_id': '8907',                      'item_list_name': 'Colchões',                   'item_category': 'Colchões',    
+        'item_category2':  '',                  'item_category3':  '',                  'item_category4':  '',  
+                'item_category5':  '',                  'affiliation':'KingStar',                       'currency':'BRL',                       'index' : '9',                  'price': '3774',                        'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',
+                                                'discount': '0'                                         }       
+                ,                                               {
+                'item_name': 'Colchão Master King Molas Ensacadas',                     'item_id': '9677',      
+        'item_list_name': 'Colchões',                   'item_category': 'Colchões',                    'item_category2':  '',                  'item_category3':  '',                  'item_category4':  '',                 'item_category5':  '',                   'affiliation':'KingStar',                       'currency':'BRL',       
+        'index' : '10',                         'price': '1975',                        'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',
+                                'discount': '0'                                         }
+,                                               {
+'item_name': 'Colchão Unique Molas Ensacadas',                  'item_id': '8817',                      'item_list_name': 'Colchões',                   'item_category': 'Colchões',                    'item_category2':  '',  
+                'item_category3':  '',                  'item_category4':  '',                  'item_category5':  '',                  'affiliation':'KingStar',                       'currency':'BRL',                      'index' : '11',                  'price': '1237',                        'item_brand': 'KING STAR COLCHÕES',     
+        'quantity': '2147483647',
+        'discount': '0'                                         }                               ,
+                        {                                                                       'item_name': 'Colchão Specialle King',                  'item_id': '9741',                      'item_list_name': 'Colchões',   
+        'item_category': 'Colchões',                    'item_category2':  '',                  'item_category3':  '',                  'item_category4':  '',                  'item_category5':  '',                  'affiliation':'KingStar',                       'currency':'BRL',                       'index' : '12',
+'price': '1712',                        'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',                                                                                               'discount': '0'                                         }                               ,
+                {                                                                       'item_name': 'Colchão Maxim Molas Ensacadas',                   'item_id': '8837',                      'item_list_name': 'Colchões',   
+        'item_category': 'Colchões',                    'item_category2':  '',                  'item_category3':  '',                  'item_category4':  '',                  'item_category5':  '',                  'affiliation':'KingStar',                       'currency':'BRL',                       'index' : '13',
+'price': '2188',                        'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',                                                                                               'discount': '0'                                         }                               ,
+                {                                                                       'item_name': 'Colchão Florida Molas Ensacadas',                         'item_id': '8831',                      'item_list_name': 'Colchões',                   'item_category': 'Colchões',                    'item_category2':  '',                 'item_category3':  '',                   'item_category4':  '',                  'item_category5':  '',
+'affiliation':'KingStar',                       'currency':'BRL',                       'index' : '14',
+        'price': '1898',                        'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',                                                                                              'discount': '0'                                  }                               ,
+                {                                                                       'item_name': 'Colchao Memory Gel Molas Ensacadas',                      'item_id': '7418',                      'item_list_name': 'Colchões',                   'item_category': 'Colchões',                    'item_category2':  '',                 'item_category3':  '',                   'item_category4':  '',                  'item_category5':  '',
+'affiliation':'KingStar',                       'currency':'BRL',                       'index' : '15',
+        'price': '2226',                        'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',                                                                                              'discount': '0'                                  }                               ,
+                {                                                                       'item_name': 'Colchão Luxor',                   'item_id': '9670',                      'item_list_name': 'Colchões',                  'item_category': 'Colchões',                     'item_category2':  '',                  'item_category3':  '',  
+                'item_category4':  '',                  'item_category5':  '',                  'affiliation':'KingStar',                       'currency':'BRL',                       'index' : '16',                        'price': '2375',                         'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',                                                                                               'discount': '0'                                         }                               ,
+                {                                                                       'item_name': 'Colchão Millenium Mola Superlastic',                      'item_id': '9639',                      'item_list_name': 'Colchões',                   'item_category': 'Colchões',                    'item_category2':  '',                 'item_category3':  '',                   'item_category4':  '',                  'item_category5':  '',
+'affiliation':'KingStar',                       'currency':'BRL',                       'index' : '17',
+        'price': '2737',                        'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',                                                                                              'discount': '0'                                  }                               ,
+                {                                                                       'item_name': 'Colchão Pocket Visco Molas Ensacadas',                    'item_id': '9663',                      'item_list_name': 'Colchões',                   'item_category': 'Colchões',                    'item_category2':  '',                 'item_category3':  '',                   'item_category4':  '',                  'item_category5':  '',
+'affiliation':'KingStar',                       'currency':'BRL',                       'index' : '18',
+        'price': '2776',                        'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',                                                                                              'discount': '0'                                  }                               ,
+                {                                                                       'item_name': 'Colchão Coolmax King Star',                       'item_id': '9631',                      'item_list_name': 'Colchões',   
+        'item_category': 'Colchões',                    'item_category2':  '',                  'item_category3':  '',                  'item_category4':  '',                  'item_category5':  '',                  'affiliation':'KingStar',                       'currency':'BRL',                       'index' : '19',
+'price': '2701',                        'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',                                                                                               'discount': '0'                                         }                               ,
+                {                                                                       'item_name': 'Colchão King Star Hybrid Premium - 10 anos de garantia!',                         'item_id': '9073',                     'item_list_name': 'Colchões',                    'item_category': 'Colchões',                    'item_category2':  'Linha Premium',                     'item_category3':  'LPs',                       'item_category4':  'Promoções',                         'item_category5':  '',                  'affiliation':'KingStar',
+'currency':'BRL',                       'index' : '20',                         'price': '2799',
+'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',
+                                                        'discount': '2799'                                     }                                ,                                               {
+                                'item_name': 'Colchão President Molas Ensacadas Pillow Top King Star',
+'item_id': '8941',                      'item_list_name': 'Colchões',                   'item_category': 'Colchões',                    'item_category2':  'Linha Premium',                     'item_category3':  '',
+'item_category4':  '',                  'item_category5':  '',                  'affiliation':'KingStar',       
+        'currency':'BRL',                       'index' : '21',                         'price': '3263',        
+        'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',
+                                                                'discount': '0'
+}                               ,                                               {
+                                'item_name': 'Colchão Sky Dream Molas Superlastic',                     'item_id': '8777',                      'item_list_name': 'Colchões',                   'item_category': 'Colchões',    
+        'item_category2':  'LPs',                       'item_category3':  'Promoções',                        'item_category4':  '',                   'item_category5':  '',                  'affiliation':'KingStar',       
+        'currency':'BRL',                       'index' : '22',                         'price': '953',
+        'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',
+                                                                'discount': '135'
+}                               ,                                               {
+                                'item_name': 'Colchão New Maximus Molas Ensacadas',                     'item_id': '6529',                      'item_list_name': 'Colchões',                   'item_category': 'Colchões',    
+        'item_category2':  'LPs',                       'item_category3':  'Colchão Casal',                    'item_category4':  'Colchão Solteiro',                   'item_category5':  'Promoção de colchão',
+'affiliation':'KingStar',                       'currency':'BRL',                       'index' : '23',
+        'price': '1937',                        'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',                                                                                              'discount': '0'                                  }                               ,
+                {                                                                       'item_name': 'Colchão High Class Látex Molas Ensacadas',                        'item_id': '9607',                      'item_list_name': 'Colchões',                   'item_category': 'Colchões',                    'item_category2':  'Linha Premium',                     'item_category3':  '',                  'item_category4':  '',                  'item_category5':  '',                  'affiliation':'KingStar',                       'currency':'BRL',
+'index' : '24',                         'price': '10738',                       'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',
+                        'discount': '0'                                         }                              ,                                                {
+'item_name': 'Colchao Firmpedic Molas Ensacadas',                       'item_id': '6453',                     'item_list_name': 'Linha Premium',                       'item_category': 'Colchões',                    'item_category2':  'Linha Premium',                     'item_category3':  'LPs',                       'item_category4':  'Colchão Casal',                     'item_category5':  'Colchão Solteiro',                          'affiliation':'KingStar',                       'currency':'BRL',                       'index' : '25',
+'price': '2301',                        'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',                                                                                               'discount': '0'                                         }                               ,
+                {                                                                       'item_name': 'Colchão Látex Firm Molas Ensacadas',                      'item_id': '9613',                      'item_list_name': 'Colchões',                   'item_category': 'Colchões',                    'item_category2':  'Linha Premium',     
+        'item_category3':  '',                  'item_category4':  '',                  'item_category5':  '',  
+                'affiliation':'KingStar',                       'currency':'BRL',                       'index' 
+: '26',                         'price': '7838',                        'item_brand': 'KING STAR COLCHÕES',     
+        'quantity': '2147483647',
+        'discount': '0'                                         }                               ,
+                        {                                                                       'item_name': 'Colchão Látex Motion Molas Ensacadas',                    'item_id': '9625',                      'item_list_name': 'Colchões',                   'item_category': 'Colchões',                    'item_category2':  'Linha Premium',                     'item_category3':  '',                  'item_category4':  '',                  'item_category5':  '',                  'affiliation':'KingStar',                       'currency':'BRL',
+'index' : '27',                         'price': '8645',                        'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',
+                        'discount': '0'                                         }                              ,                                                {
+'item_name': 'Colchao New Double System Molas Ensacadas Verticoil King Star',                   'item_id': '6521',                      'item_list_name': 'Linha Premium',                      'item_category': 'Colchões',    
+        'item_category2':  'Linha Premium',                     'item_category3':  'LPs',                      'item_category4':  'Colchão Casal',                      'item_category5':  'Colchão Solteiro',
+'affiliation':'KingStar',                       'currency':'BRL',                       'index' : '28',
+        'price': '4062',                        'item_brand': 'KING STAR COLCHÕES',                     'quantity': '2147483647',                                                                                              'discount': '0'                                  }                                       ]  };                  </script> </div>  <noscript>     <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PX5P5D2" height="0" width="0" style="display:none;visibility:hidden">            </iframe> </noscript>                  <div class="wd-basket-sendemail  wd-widget-js" data-widget-js="{ &quot;handler&quot;: &quot;BasketSendemail&quot;, &quot;options&quot;: {} }" style="display: none;">      <!-- BEFORE -->                    <button class="open-modal">Enviar carrinho por e-mail</button>                        <div class="modal-send-basket wd-widget">              <div class="wd-header">                 <span class="wd-icon"></span>                 <div class="wd-title">Enviar link do carrinho</div>                              <!-- HEADER -->                               </div>
+  <div class="wd-content">                       <!-- CONTENT -->                  <div class="form">     <form 
+name="formSendBasket" class="frm-send-basket" novalidate="novalidate">          <input type="hidden" name="CustomerID" id="CustomerID" value="0">       <div class="input-wrapper">                     <label for="">E-mail:</label>           <input type="text" name="Email" class="email" id="email" value="">         </div>          <div 
+class="input-wrapper">             <label for="">URL do carrinho:</label>             <input type="text" name="BasketUrl" class="url" id="BasketUrl" readonly="" value="" style="">         </div>          <div class="input-wrapper">             <label for="">Template de e-mail:</label>             <select name="TemplateID" style="width: 346px;">                                  <option value="26">Recuperação Manual de carrinho</option>
+                    </select>         </div>          <div class="button-wrapper">             <button type="submit" class="btn-send">Enviar</button>         </div>     </form> </div>                           </div>        
+          <div class="wd-footer">                 <span class="wd-icon"></span>                  <!-- FOOTER -->                               </div>         </div>           <!-- AFTER -->      </div>  <script id="customMessageTemplate" type="text/html">     <div class="message" data-bind="validationMessage: field"></div> </script>  
+<script type="text/html" id="metadata_ko">   <!-- ko foreach:fields -->   <div data-bind="css:css($parent.css)">     <!-- ko template:{name:templateName} --><!-- /ko -->   </div>   <!-- /ko --> </script>  <script type="text/html" id="template-field-text">     <div class="field">         <label>             <span data-bind="text:label"></span>             <small data-bind="visible:!required">(Opcional)</small>         </label>         <div class="validation baloon" data-bind="validation:value,validationModel:$parents[1]">             <input type="hidden" 
+data-bind="attr:attr.EntityMetadataID">             <input type="hidden" data-bind="attr:attr.Name">
+ <input type="text" data-bind="attr:attr.Value, textInput:value, mask:{ value: value, mask: mask }, disabled:disabled">         </div>     </div> </script>  <script type="text/html" id="template-field-password">     <div class="field">         <label>             <span data-bind="text:label"></span>             <small data-bind="visible:!required">(Opcional)</small>         </label>         <div class="validation baloon" data-bind="validation:value,validationModel:$parents[1]">             <input type="hidden" data-bind="attr:attr.EntityMetadataID">     
+        <input type="hidden" data-bind="attr:attr.Name">             <input type="password" data-bind="attr:attr.Value, textInput:value, mask:{ value: value, mask: mask }, disabled:disabled">         </div>     </div> </script>  <script type="text/html" id="template-field-phone">   <div class="field">     <label><span data-bind="text:label"></span> <small data-bind="visible:!required">(Opcional)</small></label>     <div class="validation baloon" data-bind="validation:value,validationModel:$root">       <input type="hidden" data-bind="attr:attr.EntityMetadataID">       <input type="hidden" data-bind="attr:attr.Name">       <input type="tel" data-bind="attr:attr.Value, textInput:value, disabled:disabled, maskPhone, mask">     </div>   </div> </script> <script type="text/html" id="template-field-listsingle">      <div class="field">     <input type="hidden" data-bind="attr:attr.EntityMetadataID">     <input type="hidden" data-bind="attr:attr.Name">     <label><span data-bind="text:label"></span> 
+<small data-bind="visible:!required">(Opcional)</small></label>     <div class="validation baloon <%= options.length <= 3 ? "checkbox" : "select" %>" data-bind="validation:value,validationModel:$root">       <% if( options.length > 3 ){ %>       <select data-bind="attr:attr.Value, value:value">           <option type="radio" value=""> Selecione       <% _.each( options, function(o,i){ %>           <option type="radio" value="<%=o.OptionID%>"> <%=o.Text%>       <% }) %>       <% } %>       </select>       <% if( options.length <= 3 ){ %>       <% _.each( 
+options, function(o,i){ %>         <label data-bind="validationOptions: {insertMessages: false}">           <input type="radio" value="<%=o.OptionID%>" name="<%=attr.Value.name%>" data-bind="checked:value"> <%=o.Text%>      
+   </label>       <% }) %>       <% } %>       <p class="message" data-bind="validationMessage: value"></p>     
+</div>   </div>    </script> <script type="text/html" id="template-field-listmultiple">      <div class="field">     <label><span data-bind="text:label"></span> <small data-bind="visible:!required">(Opcional)</small></label>     <input type="hidden" data-bind="attr:attr.EntityMetadataID">     <input type="hidden" data-bind="attr:attr.Name">     <div class="checkbox">       <div class="validation baloon" data-bind="validation:value,validationModel:$root">         <% _.each( options, function(o,i){ %>           <label data-bind="validationOptions: {insertMessages: false}">             <input type="checkbox" name="<%=attr.EntityMetadataID.name.replace("EntityMetadataID","Values")%>[<%=i%>]" value="<%=o.OptionID%>">             <input type="hidden" name="<%=attr.EntityMetadataID.name.replace("EntityMetadataID","Values")%>[<%=i%>]" value="">             <%=o.Text%>           </label>     
+    <% }) %>         <p class="message" data-bind="validationMessage: value"></p>       </div>     </div>   </div>    </script> <script type="text/html" id="template-field-boolean">   <div class="field">     <input type="hidden" data-bind="attr:attr.EntityMetadataID">     <input type="hidden" data-bind="attr:attr.Name">     <input type="hidden" data-bind="attr:{name:attr.Value.name}" value="false">     <label><input type="checkbox" value="true" data-bind="attr:{name:attr.Value.name}, checked:value"> <span data-bind="text:label"></span></label>   </div> </script>  <div class="wd-page-analytics  wd-widget wd-widget-js" data-widget-js="{ &quot;handler&quot;: &quot;PageAnalytics&quot;, &quot;options&quot;: {} }"> <input type="hidden" id="SerializedPageAnalytics" value="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"> <input type="hidden" name="widget-base-url" value=""> </div> <script type="text/javascript" src="https://dvmpj950n4r7u.cloudfront.net/assets/sjs.js?t=638636443860618290"></script><iframe allow="join-ad-interest-group" data-tagging-id="G-EVV4YLWQ9P" data-load-time="1728048219636" height="0" width="0" src="https://td.doubleclick.net/td/ga/rul?tid=G-EVV4YLWQ9P&amp;gacid=230842437.1728048220&amp;gtm=45je4a20v868890340za200&amp;dma=0&amp;gcd=13l3l3l3l1l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;tag_exp=101671035~101747727&amp;z=1135932010" style="display: none; visibility: hidden;"></iframe> <script defer="" type="text/javascript" src="//dvmpj950n4r7u.cloudfront.net/asset.axd?id=LQsAAB-LCAAAAAAAAAOtlsGOmzAQQH-l8jk1aZOilKqn_YQeeqh6mNgT4g3Ylj2QotX22zuhjQQE9lB8QviNeR5rsOdFKBKFIPxF2TO0EFUwnr68U2cIEelrQ6f3B7ERloO-G10ibfnNiOIEVcSN0J7B7-xbPy0yQlFQaJi0DPLdId_l-z0_tvmHw8fPt8nqHqG00aLY5Z_kll-O92ETRfHjZXl-7I1PTSRXZ0_OElrK_q4tZqb2DS9M1khwX1V21XI4Lp-jeN38r6F0rqxQgoWqI6Pi0DJlaU2y3b8pa_frfDWEC5KxpTyCtRiGsilbZzoGd423jykgLF3oarTNUDcbsM7pg9ONIhkRgjoPZWOyzhK7SFjLgAo88U8k291QNYNXZ3UyXAWVK42VDhqapjbFCX3LpiSOK1bK1Sjj2Xk_LseFkHVedUZ1cQ1xiUcudhmbmsu-OyPosf3NwHVrOIHiD1LneSdNpKF1gpJ5AtgSF0Q9S5cRtljFpZx6mMJVBtf4R0s_nOjcKoPhn9kFGhfGHE9zalXG3i4vbSDOHV0DnMbng1E4Z-pByl2clvkjTWhbFqVx1E5DNSvpSZJ-gIC_xrd-Oa69R7oyp39nG1qNNZhxVhO2su_gnkwD92UX6_pzddR4TGGS-9nz_sy3cLMBvfPn6x_ladouLQsAAA%3d%3d"></script>
+<script defer="" type="text/javascript" src="//dvmpj950n4r7u.cloudfront.net/asset.axd?id=egQAAB-LCAAAAAAAAAO1VD1PwzAQ_SvIc2uHpkQhiKkbbIQNMVzta-KQ2CF3bqmq8ttxg7ogsUA6Wff13rvz2QehWRSC8YNVA1sgPdie7650DQMh3wfezHMxEy4mPfnAmETDimIDLeFMmD76P1U5VlEMoSh4CDGyjYEszbM0Wy7jkWTX-eL2VKzPGdpYI4o0u5FJNNZntyVRvBx-r6eRcRWIfadW3jE6Vs81dkiqjKrRnOUoaq1-kw2J4-yPgI_WVSXDsEgWqXoo1fd4aFLM5j3gsJfaB8fG75zsrJuUoAfrsJ0UsgZnWlzHHZlWLfG-xSpYg6ohBX7CSQPFfaYRVrP1jubg4JLwHXCN4SIdsO_9pPfZWmKo0P1P7Y_ntzOyH7wJmuUJX9quD_HXGClej1-qihMeegQAAA%3d%3d"></script>
+ <link type="text/css" href="//dvmpj950n4r7u.cloudfront.net/asset.axd?id=HwIAAB-LCAAAAAAAAAOtj8FugzAMht_FZ5TQQSOa6x6hhx2mHmhikKU0IGy2Tqh79qZFaEPqTuvJ-v_P1pdM4AQsCJ5FO2bIIKb4Rr5FyVMisE0dGDPwfQLf-rWLglESQrAyjIl8JGCKyhSmLNPIzaZ62d2O3bLhPHmwhdmqPIXjUhODfZ_-vufZOLJ0p0Ws57ex7oeuoYAqdC1FvZevgKw_vVr16vanS_YPhx-dqCbULa8dP_2THIEiqhN6qh-ZftEn-fqBHD4w3fvZcbhcAZYG13ofAgAA" rel="stylesheet">
+ <!-- ProcessRequest: 265ms from 2024-10-04T13:19:14 to 2024-10-04T13:19:14 -->        <div id="wd101" class="wd-error-summary-wrapper  wd-widget wd-widget-js" data-widget-js="{ &quot;handler&quot;: &quot;ErrorSummary&quot;, &quot;options&quot;: {} }" data-mode="modal">             </div>    <script id="ResponseErrorTmpl" type="text/x-tmpl">     <div class="wd-error-summary">         <div>             <b>Verifique os erros abaixo:</b>         </div>         <ul>                          {{#Errors}}             <li>{{ErrorMessage}}</li>             {{/Errors}}                      </ul>     </div> </script>
+              <template id="template-vitrine-impulse-category">
+                  <div class="wd-product-list wd-product-list-impulse wd-widget lazy {{ feature }}" data-showcase-id="{{ id }}">
+                      <!--
+                      <div class="wd-header">
+                          <div class="wd-title">{{ title }}</div>
+                      </div>
+                      -->
+                      <div class="wd-content">
+                          <div class="title">
+                              <span>Produtos em destaque</span>
+                          </div>
+                          <div class="content">
+                              <ul class="list row">
+                                  {{#each placeholders }}
+                                  <li class="product-x col col-lg-6 col-md-6 col-sm-12 col-12">
+                                      <div class="wd-product-line placeholder">
+                                          <div class="stroke animate photo"></div>
+                                          <div class="stroke animate name"></div>
+                                          <div class="stroke animate code"></div>
+                                          <div class="stroke animate rating"></div>
+                                          <div class="stroke animate description"></div>
+                                          <!--<!--<div class="stroke animate price"></div>-->--&gt;
+                                          <div class="stroke animate button"></div>
+                                          <div class="stroke animate category"></div>
+                                      </div>
+                                  </li>
+                                  {{/each}}
+                              </ul>
+                          </div>
+                      </div>
+                      <div class="wd-footer"></div>
+                  </div>
+              </template>
+              <template id="template-vitrine-impulse">
+                  <div class="wd-product-list wd-product-list-impulse wd-widget lazy {{ feature }}" data-showcase-id="{{ id }}">
+                      <div class="wd-header">
+                          <div class="title">
+                              <h2 class="supreme_title">
+                                  {{ title }}
+                              </h2>
+                          </div>
+                          {{#if deadline }}
+                            <div class="deadline">
+                              <div class="deadline-container day">
+                                <div class="deadline-value">{{ deadline.day }}</div>
+                                <div class="deadline-title">Dias</div>
+                              </div>
+                              <div class="deadline-container hours">
+                                <div class="deadline-value">{{ deadline.hours }}</div>
+                                <div class="deadline-title">Horas</div>
+                              </div>
+                              <div class="deadline-container minutes">
+                                <div class="deadline-value">{{ deadline.minutes }}</div>
+                                <div class="deadline-title">Minutos</div>
+                              </div>
+                              <div class="deadline-container seconds">
+                                <div class="deadline-value">{{ deadline.seconds }}</div>
+                                <div class="deadline-title">Segundos</div>
+                              </div>
+                            </div>
+                          {{/if}}
+                          <!--
+                          <div class="wd-title">
+                              <h2>{{ title }}</h2>
+                          </div>
+                          -->
+                      </div>
+                      <div class="wd-content">
+                          {{#checklength menu 0}}
+                          <ul class="menu" data-widget-id="{{ id }}">
+                          {{#each menu}}
+                          <li class="{{#if @first}}selected{{/if}}">
+                              <a href="javascript:void(0)" data-campaign-id="{{ campaignId }}" data-widget="{{ url }}">{{ label }}</a>
+                          </li>
+                          {{/each}}
+                          </ul>
+                          {{/checklength}}
+                          <div class="content">
+                              <ul class="list row">
+                                  {{#each placeholders }}
+                                  <li class="product-x col col-lg-3 col-md-4 col-sm-6 col-12">
+                                      <div class="wd-product-line placeholder">
+                                          <div class="stroke animate photo"></div>
+                                          <div class="stroke animate name"></div>
+                                          <div class="stroke animate code"></div>
+                                          <div class="stroke animate rating"></div>
+                                          <div class="stroke animate description"></div>
+                                          <!--<div class="stroke animate price"></div>-->
+                                          <div class="stroke animate button"></div>
+                                          <div class="stroke animate category"></div>
+                                      </div>
+                                  </li>
+                                  {{/each}}
+                              </ul>
+                          </div>
+                      </div>
+                      <div class="wd-footer"></div>
+                  </div>
+              </template>
+
+              <template id="template-vitrine-impulse-single">
+                  <div class="wd-product-list wd-product-list-impulse wd-widget lazy" data-showcase-id="{{ id }}">
+                      <div class="wd-content">
+                          <div class="content">
+                              <ul class="list row">
+                                  {{#each placeholders }}
+                                  <li class="product-x col col-lg-3 col-md-4 col-sm-6 col-12">
+                                      <div class="wd-product-line placeholder">
+                                          <div class="stroke animate photo"></div>
+                                          <div class="stroke animate name"></div>
+                                          <div class="stroke animate code"></div>
+                                          <div class="stroke animate rating"></div>
+                                          <div class="stroke animate description"></div>
+                                          <!--<div class="stroke animate price"></div>-->
+                                          <div class="stroke animate button"></div>
+                                          <div class="stroke animate category"></div>
+                                      </div>
+                                  </li>
+                                  {{/each}}
+                              </ul>
+                          </div>
+                      </div>
+                  </div>
+              </template>
+
+              <template id="template-vitrine-impulse-referencia">
+                  {{#unless showWrapper}}
+                  <div class="wd-product-list wd-product-list-impulse list-referer wd-widget lazy {{ feature }}" data-showcase-id="{{ id }}">
+                  {{/unless}}
+                      <div class="parts">
+                          <div class="referer">
+                              <div class="wd-header">
+                                  <div class="title">
+                                      <h2 class="supreme_title">
+                                          {{ title }}
+                                      </h2>
+                                  </div>
+                                  <!--
+                                  <div class="wd-title">
+                                      <h2>{{ title }}</h2>
+                                  </div>
+                                  -->
+                              </div>
+                              <div class="wd-content">
+                                  <a href="javascript:void(0)" data-refresh="{{ refreshReferenceUrl }}">Trocar</a>
+                                  <div class="content">
+                                      <ul class="list row">
+                                          {{#each placeholderRef }}
+                                          <li class="product-x col col-lg-12 col-md-12 col-sm-12 col-12">       
+                                              <div class="wd-product-line placeholder">
+                                                  <div class="stroke animate photo"></div>
+                                                  <div class="stroke animate name"></div>
+                                                  <div class="stroke animate code"></div>
+                                                  <div class="stroke animate rating"></div>
+                                                  <div class="stroke animate description"></div>
+                                                  <!--<div class="stroke animate price"></div>-->
+                                                  <div class="stroke animate button"></div>
+                                                  <div class="stroke animate category"></div>
+                                              </div>
+                                          </li>
+                                          {{/each}}
+                                      </ul>
+                                  </div>
+                              </div>
+                              <div class="wd-footer"></div>
+                          </div>
+                          <div class="others">
+                              <div class="wd-header">
+                                  <div class="title">
+                                      <h2 class="supreme_title">
+                                          {{ subtitle }}
+                                      </h2>
+                                  </div>
+                                  <!--
+                                  <div class="wd-title">
+                                      <h2>{{ subtitle }}</h2>
+                                  </div>
+                                  -->
+                              </div>
+                              <div class="wd-content">
+                                  <div class="content">
+                                      <ul class="list row">
+                                          {{#each placeholders }}
+                                          <li class="product-x col col-lg-4 col-md-4 col-sm-12 col-12">
+                                              <div class="wd-product-line placeholder">
+                                                  <div class="stroke animate photo"></div>
+                                                  <div class="stroke animate name"></div>
+                                                  <div class="stroke animate code"></div>
+                                                  <div class="stroke animate rating"></div>
+                                                  <div class="stroke animate description"></div>
+                                                  <!--<div class="stroke animate price"></div>-->
+                                                  <div class="stroke animate button"></div>
+                                                  <div class="stroke animate category"></div>
+                                              </div>
+                                          </li>
+                                          {{/each}}
+                                      </ul>
+                                  </div>
+                              </div>
+                              <div class="wd-footer"></div>
+                          </div>
+                      </div>
+                  {{#unless showWrapper}}
+                  </div>
+                  {{/unless}}
+              </template>
+
+              <template id="template-vitrine-impulse-historico">
+                  <div class="wd-product-list wd-product-list-impulse list-historic wd-widget lazy {{ feature }}" data-showcase-id="{{ id }}">
+                      <div class="parts">
+                          <div class="referer">
+                              <div class="wd-header">
+                                  <div class="title">
+                                      <h2 class="supreme_title">
+                                          {{ title }}
+                                      </h2>
+                                  </div>
+                                  <!--
+                                  <div class="wd-title">
+                                      <h2>{{ title }}</h2>
+                                  </div>
+                                  -->
+                              </div>
+                              <div class="wd-content">
+                                  <div class="content">
+                                      <ul class="list row">
+                                          {{#each placeholderRef }}
+                                          <li class="product-x col col-lg-12 col-md-12 col-sm-12 col-12">       
+                                              <div class="wd-product-line placeholder">
+                                                  <div class="stroke animate photo"></div>
+                                                  <div class="stroke animate name"></div>
+                                                  <div class="stroke animate code"></div>
+                                                  <div class="stroke animate rating"></div>
+                                                  <div class="stroke animate description"></div>
+                                                  <!--<div class="stroke animate price"></div>-->
+                                                  <div class="stroke animate button"></div>
+                                                  <div class="stroke animate category"></div>
+                                              </div>
+                                          </li>
+                                          {{/each}}
+                                      </ul>
+                                  </div>
+                              </div>
+                              <div class="wd-footer"></div>
+                          </div>
+                          <div class="others">
+                              <div class="wd-header">
+                                  <div class="title">
+                                      <h2 class="supreme_title">
+                                          {{ subtitle }}
+                                      </h2>
+                                  </div>
+                                  <!--
+                                  <div class="wd-title">
+                                      <h2>{{ subtitle }}</h2>
+                                  </div>
+                                  -->
+                              </div>
+                              <div class="wd-content">
+                                  <div class="content">
+                                      <ul class="list row">
+                                          {{#each placeholders }}
+                                          <li class="product-x col col-lg-4 col-md-4 col-sm-12 col-12">
+                                              <div class="wd-product-line placeholder">
+                                                  <div class="stroke animate photo"></div>
+                                                  <div class="stroke animate name"></div>
+                                                  <div class="stroke animate code"></div>
+                                                  <div class="stroke animate rating"></div>
+                                                  <div class="stroke animate description"></div>
+                                                  <!--<div class="stroke animate price"></div>-->
+                                                  <div class="stroke animate button"></div>
+                                                  <div class="stroke animate category"></div>
+                                              </div>
+                                          </li>
+                                          {{/each}}
+                                      </ul>
+                                  </div>
+                              </div>
+                              <div class="wd-footer"></div>
+                          </div>
+                      </div>
+
+                  </div>
+              </template>
+
+              <template id="template-vitrine-impulse-base">
+                  <ul class="list row">
+                      {{#each placeholders }}
+                      <li class="product-x col col-lg-4 col-md-4 col-sm-12 col-12">
+                          <div class="wd-product-line placeholder">
+                              <div class="stroke animate photo"></div>
+                              <div class="stroke animate name"></div>
+                              <div class="stroke animate code"></div>
+                              <div class="stroke animate rating"></div>
+                              <div class="stroke animate description"></div>
+                              <!--<div class="stroke animate price"></div>-->
+                              <div class="stroke animate button"></div>
+                              <div class="stroke animate category"></div>
+                          </div>
+                      </li>
+                      {{/each}}
+                  </ul>
+              </template>
+          <div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div><div class="trustvox-certificate__modal-container">
+    <div class="trustvox-certificate__modal-overlay"></div>
+    <div class="trustvox-certificate__modal">
+      <div class="trustvox-certificate__modal-header"></div>
+      <div class="trustvox-certificate__modal-dialog">
+        <span class="trustvox-certificate__modal-close">
+          <span class="trustvox-certificate__modal-close-circle"></span>
+        </span>
+      </div>
+      <div class="trustvox-certificate__modal-frame-container">
+        <iframe id="trustvox-certificate-iframe" scrolling="yes" class="trustvox-certificate__modal-frame" src="//certificados.trustvox.com.br/kingstarcolchoes?hidden=true"></iframe>
+      </div>
+    </div>
+  </div><span role="status" aria-live="polite" class="select2-hidden-accessible"></span><div><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" width="256" height="60" role="presentation" name="a-l9k144qijwy4" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfEWqkZAAAAAKmyhYYvBfnlhjWTTp0bUjxTYnJW&amp;co=aHR0cHM6Ly93d3cua2luZ3N0YXJjb2xjaG9lcy5jb20uYnI6NDQz&amp;hl=pt-BR&amp;v=xds0rzGrktR88uEZ2JUvdgOY&amp;size=invisible&amp;cb=xzzzi47bzbln"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response-100000" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div></body></html>
+Links dos produtos:
+PS C:\Users\fabio\OneDrive\Documentos\ACADEMIA PYTHON> 
